@@ -18,4 +18,4 @@ module.exports = {
   tabWidth: 2,
   useTabs: false,
   embeddedLanguageFormatting: 'auto',
-}
+};

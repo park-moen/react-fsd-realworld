@@ -17,6 +17,7 @@ export default defineConfig({
       eslintOptions: { cache: false },
     }),
   ],
+  server: { host: false },
   resolve: {
     alias: {
       '~app': path.resolve('src/app'),
